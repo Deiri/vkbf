@@ -50,7 +50,7 @@ file=open('passwords.txt','r')
 
 email=input('Enter Email/Phone : ')
 
-print("\nTarget Email ID : ",email)
+print("\nTarget Email/Phone ID : ",email)
 print("\nTrying Passwords from list ...")
 
 i=0
