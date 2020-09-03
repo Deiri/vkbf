@@ -48,7 +48,7 @@ def function(email,passw,i):
 print('\n---------- Welcome To VK BruteForce ----------\n')
 file=open('passwords.txt','r')
 
-email=input('Enter Username : ')
+email=input('Enter Email/Phone : ')
 
 print("\nTarget Email ID : ",email)
 print("\nTrying Passwords from list ...")
